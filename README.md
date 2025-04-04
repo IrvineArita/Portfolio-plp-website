@@ -7,9 +7,9 @@ Whether you're an employer, a potential collaborator, or just curious about my w
 ---
 
 ## 🔗 Live Demo 
-[Click here to view the website](https://your-github-username.github.io/portfolio-website/)  
+[Click here to view the website] 
 
-
+file:///C:/Users/Hp/Desktop/portfolio/index.html
 ## Project Structure  
 
 This portfolio website is structured with the following main files and folders:  
@@ -45,6 +45,6 @@ This project is built with core web technologies, ensuring a fast and lightweigh
 
 ### 1️⃣ Clone the Repository (If You Want to Edit or Customize It)
 To get a local copy of this project, run the following command in your terminal:  
-
+https://github.com/IrvineArita/Portfolio-plp-website
 ```sh
 git clone 
